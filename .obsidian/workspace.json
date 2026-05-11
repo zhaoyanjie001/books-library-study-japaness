@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "4a4d3621c34394e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d045482238a97e7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a90a14bb406776fe",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
+            }
+          },
+          {
+            "id": "4a4321b4e81a5858",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
+            }
+          },
+          {
+            "id": "b2ba21243e2e7e08",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "日语语法/06-快速复习/原始01/016 ～だから（理由）.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "016 ～だから（理由）"
+            }
+          },
+          {
+            "id": "7697042399bb36ce",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "日语语法/06-快速复习/原始01/015 もしそうなら・たとえそうでも.canvas",
+                "viewState": {
+                  "x": 38.294929099664856,
+                  "y": 816.7813529126587,
+                  "zoom": 0.24858927848819684
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "015 もしそうなら・たとえそうでも"
+            }
+          },
+          {
+            "id": "c9c6c99db760162b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日语语法/01-语法/中级语法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中级语法"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "299dda38c81dcd81",
+    "type": "split",
+    "children": [
+      {
+        "id": "375a8fc2cd8d3fed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b2aaf32f846701a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "744d3e6cf0912de6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "090e6266caec0dc0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 408.5
+  },
+  "right": {
+    "id": "f38c9311ccc0f956",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b027aa6d31d283d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e288858970d5cd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 的反向链接列表"
+            }
+          },
+          {
+            "id": "ba7de19c1bee44e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日语语法/00-学习路线/分類/動詞普通形.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "動詞普通形 的出链列表"
+            }
+          },
+          {
+            "id": "4da8059903ce5363",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "09b67053a758bdc6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e1c9ae9beb59a66e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日语语法/01-语法/中级语法/N2 015-6～としても・～にしても・～にしろ・～にせよ.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "N2 015-6～としても・～にしても・～にしろ・～にせよ 的大纲"
+            }
+          },
+          {
+            "id": "d1615cd9e6a1ccb2",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "ec2f92468a61fe98",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "ded104dabb98084b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "juggl:Juggl global graph": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7697042399bb36ce",
+  "lastOpenFiles": [
+    "日语语法/01-语法/中级语法/N2 014-2～ものの・～とはいうものの.md",
+    "日语语法/06-快速复习/原始01/015 もしそうなら・たとえそうでも.canvas",
+    "日语语法/01-语法/中级语法/N2 010-3～にしても～にしても、～にしろ～にしろ、～にせよ～にせよ.md",
+    "日语语法/01-语法/中级语法/N2 015-6～としても・～にしても・～にしろ・～にせよ.md",
+    "日语语法/06-快速复习/原始01/013 ～（話題）は.canvas",
+    "日语语法/01-语法/中级语法.md",
+    "日语语法/06-快速复习/原始01/016 ～だから（理由）.canvas",
+    "日语语法/01-语法/中级语法/N2 015-5～を抜きにしては.md",
+    "日语语法/01-语法/中级语法/N2 015-2～ものなら.md",
+    "日语语法/01-语法/中级语法/N2 015-1～としたら・～とすれば、～とすると、～となったら、～となれば、～となると.md",
+    "日语语法/01-语法/中级语法/N2 013-3～というと・～といえば・～といったら.md",
+    "日语语法/01-语法/中级语法/N2 016-5～につき.md",
+    "日语语法/01-语法/中级语法/N2 016-3～おかげだ・～せいだ.md",
+    "日语语法/01-语法/中级语法/N2 016-2～ものだから・～もので・～もの.md",
+    "日语语法/01-语法/中级语法/N2 016-1～によって.md",
+    "db1.base",
+    "日语语法/06-快速复习/原始01",
+    "日语语法/06-快速复习",
+    "06-快速复习",
+    "日语语法/02-单词/N2 中级单词.md",
+    "日语语法/01-语法/中级语法/N2 001-2～に際して・～に当たって.md",
+    "日语语法/01-语法/中级语法/N2 016-4～あまり・あまりの～に.md",
+    "日语语法/00-学习路线/分類/な形・名詞.md",
+    "日语语法/01-语法/中级语法/N2 001-1～際（に） 1.md",
+    "日语语法/00-学习路线/日语总路线.md",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "日语语法/01-语法/中级语法/N2 015-3～（よ）うものなら.md",
+    "日语语法/02-单词/中级单词/N2 C7-002  15  社会.md",
+    "日语语法/02-单词/中级单词/N2 C7-003  16  社会.md",
+    "日语语法/01-语法/中级语法/N2 014-6～からといって.md",
+    "日语语法/01-语法/中级语法/N2 014-5～といっても.md",
+    "日语语法/01-语法/中级语法/N2 014-4～つつ（も）.md",
+    "日语语法/01-语法/中级语法/N2 014-3～ながら（も）.md",
+    "日语语法/01-语法/中级语法/N2 014-1～にもかかわらず.md",
+    "日语语法/01-语法/中级语法/rename.bat",
+    "日语语法/03-句子/040 一度～たら最後、二度と～ない.md.skrold.skrold",
+    "日语语法/03-句子/039 一概に～ない.md.skrold.skrold",
+    "日语语法/03-句子/030 いくら何でも.md.skrold.skrold",
+    "日语语法/03-句子/030 いくら何でも.md.skrold",
+    "日语语法/03-句子/029 いくらか～ようだ.md.skrold.skrold",
+    "Pasted image 20260509202920.png"
+  ]
+}
